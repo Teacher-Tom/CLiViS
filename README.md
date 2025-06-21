@@ -1,8 +1,8 @@
-# CLiViS: Cognitive-Map-Guided Vision-Language Synergy for Embodied Question Answering
+# CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the implementation of our paper *CLiViS: Cognitive-Map-Guided Vision-Language Synergy for Embodied Question Answering*, submitted to NeurIPS 2025.
+This repository contains the implementation of our paper *Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning*.
 
 ## 📄 Abstract
 
@@ -14,13 +14,13 @@ If you use this code or build upon our work, please cite:
 
 ```bibtex
 @misc{li2025cliviscognitivemapguided,
-      title={CLiViS: Cognitive-Map-Guided Vision-Language Synergy for Embodied Question Answering}, 
+      title={CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning}, 
       author={Kailing Li and Qi'ao Xu and Tianwen Qian and Yuqian Fu and Yang Jiao and Xiaoling Wang},
       year={2025},
-      eprint={2504.xxxx},
+      eprint={2506.xxxx},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.xxxx}
+      url={https://arxiv.org/abs/2506.xxxx}
 }
 ```
 
@@ -31,3 +31,4 @@ We are currently preparing the full codebase and plan to upload it shortly. Than
 ## 📞 Contact
 
 For any questions or issues, feel free to open an issue or contact us at [51275901046@stu.ecnu.edu.cn].
+
