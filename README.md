@@ -26,7 +26,7 @@ If you use this code or build upon our work, please cite:
 
 ## ⏳ Note from the Authors
 
-We are currently preparing the full codebase and plan to upload it shortly. Thank you for your interest and patience!
+The code will be released after the paper is officially accepted! Thank you for your interest and patience!
 
 ## 📞 Contact
 
