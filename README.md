@@ -17,10 +17,10 @@ If you use this code or build upon our work, please cite:
       title={CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning}, 
       author={Kailing Li and Qi'ao Xu and Tianwen Qian and Yuqian Fu and Yang Jiao and Xiaoling Wang},
       year={2025},
-      eprint={2506.xxxx},
+      eprint={2506.17629},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.xxxx}
+      url={https://arxiv.org/abs/2506.17629}
 }
 ```
 
