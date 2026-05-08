@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+**Accepted to appear in CVPR 2026!**
+
 This repository contains the implementation of our paper *Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning*.
 
 ## 📄 Abstract
@@ -26,7 +28,8 @@ If you use this code or build upon our work, please cite:
 
 ## ⏳ Note from the Authors
 
-The code will be released after the paper is officially accepted! Thank you for your interest and patience!
+We are cleaning up and organizing the full codebase and will release it progressively. Thank you for your interest and patience!
+
 
 ## 📞 Contact
 
