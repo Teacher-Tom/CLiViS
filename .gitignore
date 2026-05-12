@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+.idea/
+.vscode/
 # Distribution / packaging
 .Python
 build/
@@ -129,6 +130,8 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
+!.env.example
 .venv
 env/
 venv/
@@ -192,3 +195,17 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+/checkpoints/
+/mobileclip_blt.pt
+output/
+outputs/
+output_segments/
+segments/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+*.pth
+*.ckpt
+*.safetensors

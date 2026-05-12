@@ -21,7 +21,7 @@ def _env(name, default=""):
     return os.getenv(name, default)
 
 
-# 大模型相关
+# API keys and model names
 QWEN_API_KEY = _env("QWEN_API_KEY")
 LLM_MODEL_NAME = _env("LLM_MODEL_NAME", "qwen-max-latest")
 LLM_MODEL_NAME_2 = _env("LLM_MODEL_NAME_2", LLM_MODEL_NAME)
@@ -37,7 +37,7 @@ VLM_MODEL_NAME_INTERNVL25 = _env("VLM_MODEL_NAME_INTERNVL25", "OpenGVLab/InternV
 VLM_MODEL_NAME_INTERNVL3 = _env("VLM_MODEL_NAME_INTERNVL3", "OpenGVLab/InternVL3-8B")
 
 
-# 图数据库相关
+# Neo4j database configuration
 NEO4J_URI = _env("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = _env("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = _env("NEO4J_PASSWORD")
